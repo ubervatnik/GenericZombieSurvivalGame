@@ -35,9 +35,8 @@ GZSG also features an world where you can remove and place blocks to create fort
 
 ## Installation 
 
-To install the game go to main and download `build[x].py`
-
-Or, paste the code in `build[x].py` to your Python 
+Grab the latest build on releases.
+No additional things required.
 
 > [!NOTE]
 > Requires no libraries.
