@@ -28,7 +28,7 @@ GZSG also features an world where you can remove and place blocks to create fort
 
 - **Solid Blocks (`█`)**: The number of solid blocks available in your inventory.
 
-## Entities
+## ![alt text](https://github.com/ubervatnik/GenericZombieSurvivalGame/blob/c9b0c5dc49c8d3734be5dd5e1faddc567405e3ca/entities_art.png)
 
 - **Enemies (Zombies)**: Represented by `Z`. Avoid or shoot them to survive.
 - **Survivors**: Represented by `S`. They are neutral entities in the game. I will improve them in next updates.
