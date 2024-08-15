@@ -36,3 +36,14 @@ GZSG also features an world where you can remove and place blocks to create fort
 - **Survivors**: Represented by `S`. They are neutral entities in the game. I will improve them in next updates.
 
 <img src=game[2].gif style="height: 200px; width: 600px"/>
+
+## Installation 
+
+To install the game go to main and download `build[x].py`
+
+Or, paste the code in `build[x].py` to your Python 
+
+> [!NOTE]
+> Requires no libraries.
+
+
