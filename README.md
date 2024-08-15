@@ -7,8 +7,6 @@ Build defenses, kill zombies, protect survivors.
 
 GZSG also features an world where you can remove and place blocks to create fortifications against zombies.
 
-<img src=game.gif style="height: 200px; width: 600px"/>
-
 
 ## Game Controls
 
@@ -34,8 +32,6 @@ GZSG also features an world where you can remove and place blocks to create fort
 
 - **Enemies (Zombies)**: Represented by `Z`. Avoid or shoot them to survive.
 - **Survivors**: Represented by `S`. They are neutral entities in the game. I will improve them in next updates.
-
-<img src=game[2].gif style="height: 200px; width: 600px"/>
 
 ## Installation 
 
