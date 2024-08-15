@@ -33,12 +33,23 @@ GZSG also features an world where you can remove and place blocks to create fort
 - **Enemies (Zombies)**: Represented by `Z`. Avoid or shoot them to survive.
 - **Survivors**: Represented by `S`. They are neutral entities in the game. I will improve them in next updates.
 
-## Installation 
+> [!NOTE]
+> As you see, there's not much entities, survivors don't move, its because the game is not finished yet. I will improve those and add more things in the future.
 
-Grab the latest build on releases.
-No additional things required.
+## ![alt text](https://github.com/ubervatnik/GenericZombieSurvivalGame/blob/310d75d9851124609e5874908e16f3b848c1275c/game_installation_art.png)
+
+
+Go to the main directory, and then download `build[something].py`
+
+Or, copy the code in `build[something].py` and paste it to Python to play
+without downloading 
 
 > [!NOTE]
-> Requires no libraries.
+> Requires no libraries and additional things, just download the .py and play!
+
+**Feel free to report all the bugs to me**
+
+
+
 
 
