@@ -8,7 +8,7 @@ Build defenses, kill zombies, protect survivors.
 GZSG also features an world where you can remove and place blocks to create fortifications against zombies.
 
 
-## Game Controls
+## ![alt text](https://github.com/ubervatnik/GenericZombieSurvivalGame/blob/bca8b78db9ca7c3609613b67c330d7af9a22974c/controls_art.png)
 
 - **Move Player**: Use the following keys to move:
   - `w`: Move up
