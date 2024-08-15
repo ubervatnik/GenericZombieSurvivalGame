@@ -8,7 +8,7 @@ Build defenses, kill zombies, protect survivors.
 GZSG also features an world where you can remove and place blocks to create fortifications against zombies.
 
 
-## ![alt text](https://github.com/ubervatnik/GenericZombieSurvivalGame/blob/bca8b78db9ca7c3609613b67c330d7af9a22974c/controls_art.png)
+## Gameplay Mechanics
 
 - **Move Player**: Use the following keys to move:
   - `w`: Move up
@@ -28,7 +28,7 @@ GZSG also features an world where you can remove and place blocks to create fort
 
 - **Solid Blocks (`█`)**: The number of solid blocks available in your inventory.
 
-## ![alt text](https://github.com/ubervatnik/GenericZombieSurvivalGame/blob/c9b0c5dc49c8d3734be5dd5e1faddc567405e3ca/entities_art.png)
+## Entities
 
 - **Enemies (Zombies)**: Represented by `Z`. Avoid or shoot them to survive.
 - **Survivors**: Represented by `S`. They are neutral entities in the game. I will improve them in next updates.
@@ -36,7 +36,7 @@ GZSG also features an world where you can remove and place blocks to create fort
 > [!NOTE]
 > As you see, there's not much entities, survivors don't move, its because the game is not finished yet. I will improve those and add more things in the future.
 
-## ![alt text](https://github.com/ubervatnik/GenericZombieSurvivalGame/blob/310d75d9851124609e5874908e16f3b848c1275c/game_installation_art.png)
+## Installation 
 
 
 Go to the main directory, and then download `build[something].py`
